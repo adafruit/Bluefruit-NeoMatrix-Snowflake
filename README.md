@@ -1,6 +1,6 @@
 ## This repository has been archived
 
-They were mirrored to https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Bluetooth_NeoMatrix_Snowflake
+The contents were mirrored to https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Bluetooth_NeoMatrix_Snowflake
 
 ## Bluefruit-NeoMatrix-Snowflake
 BLE-controlled GFX (of a snowflake) on a NeoPixel 8x8 Matrix
